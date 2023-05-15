@@ -20,6 +20,6 @@ Heavily based on Brackey's Tower Defense tutorial series, I edited and made it m
 Windows: [Zip](https://hoanghai.itch.io/tower-denfense-3d)
 
 ## Tools
-* Unity 2019.4.15
+* Unity 2022.2.10
 * Visual Studio 2022
 * C#
